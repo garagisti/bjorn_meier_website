@@ -15,7 +15,7 @@ body {
 }
 
 /*My header*/
-.hero #owl-carosel1{
+.hero #owl-carosel1 img{
     
 /*    background: #ccc;*/
 /*    background: url(Images/bjoern-meier-image2.jpg);*/
@@ -25,6 +25,7 @@ body {
     height: 800px;
     height: 100vh; /*vh = view port height (this is new)*/
     margin-bottom: auto;
+    width:200vh;
     position:relative;
 }
 
